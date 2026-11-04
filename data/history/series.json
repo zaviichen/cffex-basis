@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "built_at": "2026-11-04 16:04:46 +0800",
+  "built_at": "2026-11-04 16:05:17 +0800",
   "source": "Sina InnerFuturesNewService.getDailyKLine futures close + CN_MarketData.getKLineData index close",
   "row": [
     "date_yyyymmdd",
